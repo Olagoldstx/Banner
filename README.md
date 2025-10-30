@@ -1,3 +1,13 @@
+
+<p align="center">
+  <img src="assets/securethecloud-logo-dark-main.png" width="85%" alt="SecureTheCloud.dev – Cloud Security | Zero Trust | Resilience">
+</p>
+
+
+
+
+
+
 /SecureTheCloud-All-v2.5/
 ├── securethecloud-banner-dark.png
 ├── securethecloud-banner-light.png
