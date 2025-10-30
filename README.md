@@ -1,3 +1,17 @@
+/SecureTheCloud-All-v2.5/
+├── securethecloud-banner-dark.png
+├── securethecloud-banner-light.png
+├── securethecloud-logo.png
+├── securethecloud-logo-transparent.png
+└── README_LogoUsage.md
+
+
+
+
+
+
+
+
 # SecureTheCloud Brand Assets & Usage Guidelines
 
 Thank you for using the SecureTheCloud brand assets! Please follow these guidelines to ensure our brand is represented consistently and professionally.
