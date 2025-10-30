@@ -3,6 +3,7 @@
   <img src="assets/securethecloud-logo-dark-main.png" width="85%" alt="SecureTheCloud.dev – Cloud Security | Zero Trust | Resilience">
 </p>
 
+  <img src="assets/securethecloud-logo-dark-main.png" width="85%">
 
 
 
