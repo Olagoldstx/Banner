@@ -1,3 +1,18 @@
+<!-- BADGES:START -->
+
+<div align="left">
+[![](https://img.shields.io/github/license/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/stars/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a&logo=github)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/last-commit/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/issues/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/issues-pr/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/repo-size/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/languages/top/Olagoldstx/Banner?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+[![](https://img.shields.io/github/actions/workflow/status/Olagoldstx/Banner/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/Banner)
+</div>
+
+<!-- BADGES:END -->
+
 https://drive.google.com/file/d/1rc9k6qAV7r1hULv39Gs2W_J4hisbnG--/view?usp=drivesdk
 <p align="center">
   <img src="assets/securethecloud-logo-dark-main.png" width="85%" alt="SecureTheCloud.dev – Cloud Security | Zero Trust | Resilience">
